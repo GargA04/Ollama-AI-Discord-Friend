@@ -5,7 +5,7 @@ The bot responds to messages in your server using a custom role/system prompt th
 
 ---
 
-## Requirements ⚙️
+## Requirements 
 
 * [Python 3.9+](https://www.python.org/downloads/)
 * [Discord Developer Account](https://discord.com/developers/applications)
@@ -88,6 +88,7 @@ The bot will connect to Discord and start responding to messages in servers wher
 ## Notes 
 * Ensure the **system\_prompt.txt** file exists and is spelled exactly like that.
 * If you want to change the bot’s behavior, just edit `system_prompt.txt` and restart the bot.
+
 
 
 
