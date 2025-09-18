@@ -1,19 +1,9 @@
-# Secrets
-./*.env                  # Your environment variables
-.env
-./system_prompt.txt     # Your system prompt file
-system_prompt.txt 
-
-# Node.js
-node_modules/         # Node modules folder
+./*.env 
+.env              
+./system_prompt.txt
+system_prompt.txt           
 ./vrm-chat-back/node_modules/
-
-# Python
 __pycache__/          # Python cache
 *.pyc                 # Compiled Python files
-
-# Logs
 *.log
 
-# Virtual environments (if you have any)
-venv/
