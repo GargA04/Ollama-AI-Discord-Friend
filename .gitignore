@@ -1,0 +1,17 @@
+# Secrets
+./*.env                  # Your environment variables
+.env
+system_prompt.txt     # Your system prompt file
+
+# Node.js
+node_modules/         # Node modules folder
+
+# Python
+__pycache__/          # Python cache
+*.pyc                 # Compiled Python files
+
+# Logs
+*.log
+
+# Virtual environments (if you have any)
+venv/
